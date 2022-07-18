@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="wechatmodifier:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dbed609-5f6a-4a63-99ca-5820e3d4b5fa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wechat" />
+  </component>
+  <component name="ProjectId" id="29sWa4kAYAcmwQOZQAoW7fnPfEE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\19578\IdeaProjects\wechartmodifier\src\resources" />
+      <recent name="D:\19578\IdeaProjects\wechartmodifier\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Controller">
+    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.Controller" />
+      <module name="wechatmodifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Controller" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.Controller" />
+      <module name="wechatmodifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.KK" />
+      <module name="wechatmodifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainEntrance" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.MainEntrance" />
+      <module name="wechatmodifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRendered2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.MyRendered2" />
+      <module name="wechatmodifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Picture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.Picture" />
+      <module name="wechatmodifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainEntrance" />
+      <item itemvalue="Application.Controller" />
+      <item itemvalue="Application.MyRendered2" />
+      <item itemvalue="Application.Picture" />
+      <item itemvalue="Application.KK" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Controller" />
+        <item itemvalue="Application.MainEntrance" />
+        <item itemvalue="Application.KK" />
+        <item itemvalue="Application.MainEntrance" />
+        <item itemvalue="Application.MyRendered2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dbed609-5f6a-4a63-99ca-5820e3d4b5fa" name="Default Changelist" comment="" />
+      <created>1653902333711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653902333711</updated>
+      <workItem from="1653902334936" duration="1450000" />
+      <workItem from="1653903860681" duration="115000" />
+      <workItem from="1653903990700" duration="340000" />
+      <workItem from="1653918763142" duration="3278000" />
+      <workItem from="1653922086393" duration="476000" />
+      <workItem from="1653955958301" duration="1025000" />
+      <workItem from="1653957401078" duration="20000" />
+      <workItem from="1653957485460" duration="72000" />
+      <workItem from="1653957572330" duration="56000" />
+      <workItem from="1653957672657" duration="38000" />
+      <workItem from="1653957720877" duration="9000" />
+      <workItem from="1653957739894" duration="76000" />
+      <workItem from="1653957847103" duration="30000" />
+      <workItem from="1653957913686" duration="21000" />
+      <workItem from="1653957954492" duration="137000" />
+      <workItem from="1653958124561" duration="62000" />
+      <workItem from="1653958306524" duration="37000" />
+      <workItem from="1653958420085" duration="77000" />
+      <workItem from="1653958511786" duration="51000" />
+      <workItem from="1653958609339" duration="3247000" />
+      <workItem from="1653961984587" duration="115000" />
+      <workItem from="1653962116350" duration="64000" />
+      <workItem from="1653962202347" duration="6373000" />
+      <workItem from="1653978790342" duration="1154000" />
+      <workItem from="1653980146599" duration="11199000" />
+      <workItem from="1654001448447" duration="6227000" />
+      <workItem from="1654044868735" duration="6413000" />
+      <workItem from="1654051358007" duration="3100000" />
+      <workItem from="1654054520361" duration="20000" />
+      <workItem from="1654065098536" duration="10482000" />
+      <workItem from="1654087695653" duration="5745000" />
+      <workItem from="1654128240781" duration="6357000" />
+      <workItem from="1654152047168" duration="9422000" />
+      <workItem from="1654173161308" duration="6118000" />
+      <workItem from="1654179454204" duration="996000" />
+      <workItem from="1654215666898" duration="8000" />
+      <workItem from="1654216114965" duration="2704000" />
+      <workItem from="1654225173096" duration="1617000" />
+      <workItem from="1654240400347" duration="4382000" />
+      <workItem from="1654244958365" duration="3185000" />
+      <workItem from="1654261228536" duration="5342000" />
+      <workItem from="1654302214899" duration="3277000" />
+      <workItem from="1654305561878" duration="92000" />
+      <workItem from="1654305675790" duration="5356000" />
+      <workItem from="1654324513093" duration="10646000" />
+      <workItem from="1654348305265" duration="5204000" />
+      <workItem from="1654404006090" duration="4885000" />
+      <workItem from="1654433117551" duration="4881000" />
+      <workItem from="1654474426379" duration="4694000" />
+      <workItem from="1654485159754" duration="1856000" />
+      <workItem from="1654498888209" duration="2897000" />
+      <workItem from="1654519964691" duration="5176000" />
+      <workItem from="1654561188192" duration="6444000" />
+      <workItem from="1654572109344" duration="18000" />
+      <workItem from="1654584309254" duration="8008000" />
+      <workItem from="1654606753546" duration="3811000" />
+      <workItem from="1654647805481" duration="2247000" />
+      <workItem from="1654653873985" duration="170000" />
+      <workItem from="1654654132690" duration="174000" />
+      <workItem from="1654654340211" duration="283000" />
+      <workItem from="1654654629155" duration="175000" />
+      <workItem from="1654655192571" duration="4000" />
+      <workItem from="1654655297657" duration="12000" />
+      <workItem from="1654655922762" duration="1713000" />
+      <workItem from="1654658021563" duration="852000" />
+      <workItem from="1654669940301" duration="8246000" />
+      <workItem from="1654691758747" duration="5708000" />
+      <workItem from="1654734808008" duration="10262000" />
+      <workItem from="1654745788224" duration="83000" />
+      <workItem from="1654745923686" duration="378000" />
+      <workItem from="1654756397281" duration="174000" />
+      <workItem from="1654756585847" duration="170000" />
+      <workItem from="1654756825488" duration="285000" />
+      <workItem from="1654757162904" duration="868000" />
+      <workItem from="1654758183884" duration="608000" />
+      <workItem from="1654758799690" duration="8574000" />
+      <workItem from="1654777653007" duration="7116000" />
+      <workItem from="1654820682927" duration="1189000" />
+      <workItem from="1654821946765" duration="3140000" />
+      <workItem from="1654826718254" duration="6412000" />
+      <workItem from="1654842600225" duration="9176000" />
+      <workItem from="1654853003477" duration="59000" />
+      <workItem from="1654853333341" duration="66000" />
+      <workItem from="1654853489178" duration="3386000" />
+      <workItem from="1654864207101" duration="505000" />
+      <workItem from="1654864730469" duration="4000" />
+      <workItem from="1654868406117" duration="1312000" />
+      <workItem from="1654869949310" duration="171000" />
+      <workItem from="1655024182871" duration="162000" />
+      <workItem from="1655026042854" duration="243000" />
+      <workItem from="1655039675465" duration="1109000" />
+      <workItem from="1655104934302" duration="93000" />
+      <workItem from="1655106738838" duration="77000" />
+      <workItem from="1655107581240" duration="12000" />
+      <workItem from="1655113267659" duration="44000" />
+      <workItem from="1655127027406" duration="80000" />
+      <workItem from="1655172390152" duration="53000" />
+      <workItem from="1655257240589" duration="245000" />
+      <workItem from="1655800251059" duration="406000" />
+      <workItem from="1655802422841" duration="144000" />
+      <workItem from="1655807091068" duration="82000" />
+      <workItem from="1656073320927" duration="4000" />
+      <workItem from="1656383017075" duration="497000" />
+      <workItem from="1656383768700" duration="92000" />
+      <workItem from="1656409481458" duration="37000" />
+      <workItem from="1656582288795" duration="1593000" />
+      <workItem from="1656631920181" duration="358000" />
+      <workItem from="1656990480215" duration="656000" />
+      <workItem from="1657012191820" duration="56000" />
+      <workItem from="1657335166100" duration="116000" />
+      <workItem from="1657335304249" duration="38000" />
+      <workItem from="1657335356246" duration="1739000" />
+      <workItem from="1657337216498" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
